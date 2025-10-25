@@ -1,2 +1,26 @@
-.CLAUDE.md.swp
+# macOS system files
 .DS_Store
+
+# Vim swap files
+*.swp
+*.swo
+*~
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Virtual environment
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+
+# Output folders (optional - uncomment if you don't want to track protected images)
+# protected_images/
+# input_images/
